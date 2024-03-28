@@ -4,5 +4,4 @@ void cube (int n1){
 }
 void main() {
     cube(6);
-    print(36*6);
 }
