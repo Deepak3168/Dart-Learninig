@@ -20,5 +20,4 @@ void main(){
     for (String line in lines){
         print("| $line |");
     }
-
 }
